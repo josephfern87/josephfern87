@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://goodfriendtec.com/assets/img/joseph-fernandez.jpg" width="100"/>
-  - 👋 Hi, I’m @josephfern87
+  <br/> 👋 Hi, I’m @josephfern87<br/>
 </div>
 
 
