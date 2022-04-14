@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div id="header" align="center">
   <img src="https://goodfriendtec.com/assets/img/joseph-fernandez.jpg" width="100"/>
 </div>
@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
 
 - 👋 Hi, I’m @josephfern87
 - 👀 I’m interested in ...
