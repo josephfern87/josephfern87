@@ -15,8 +15,10 @@
   </a>
 </div>
 <br/>
-### 👨‍💻: About Me : Professional with easy adaptation with great ability to work in a team under high pressure conditions, lover of new challenges, self-taught, responsible in project delivery times, quick understanding of requirements, quality in the work done with extensive experience.
+👨‍💻 About Me: Professional with easy adaptation with great ability to work in a team under high pressure conditions, lover of new challenges, self-taught, responsible in project delivery times, quick understanding of requirements, quality in the work done with extensive experience.
 <br/>
+<br/>
+✳️ Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
